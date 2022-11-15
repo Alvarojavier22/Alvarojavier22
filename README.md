@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alvaro-javier-chagas-capurro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alvaro-javier-chagas-capurro/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15853203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15853203" height="30" width="40" /></a>
 <a href="https://instagram.com/alvarojavier706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvarojavier706" height="30" width="40" /></a>
+  <a href="https://twitter.com/Alvarojavier706" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alvarojavier706" height="30" width="40" /></a>
 <a href="https://discord.gg/809224298907566134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="809224298907566134" height="30" width="40" /></a>
 </p>
 
