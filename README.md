@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alvaro Javier Chagas</h1>
+
 <h3 align="center">A passionate FullStack Software Developer from Uruguay</h3>
+<p align="center">Advanced student of Information Technology, dedicated to mastering software development and technology.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarojavier22&label=Profile%20views&color=0e75b6&style=flat" alt="alvarojavier22" /> </p>
 
